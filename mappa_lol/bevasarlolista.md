@@ -13,3 +13,6 @@ Ezek a dolgok amiket venni kellene.
 - sajt
 - majonéz
 - ketchup
+
+#secret-ing
+-juhtúró
