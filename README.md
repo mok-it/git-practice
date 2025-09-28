@@ -251,7 +251,7 @@ a változtatásokat mielőtt azok a fő ágra kerülhetnek. Most ezt fogjuk kipr
 Push-old a kódod, a korábbiakhoz hasonlóan. Mivel a GitHubon még nem létezik a branch, amire commit-okat szeretnél
 tenni, hibába ütközhetsz. Terminálban a kövekező parancsot használhatod:
 ```bash
-git push --set-upsream origin secret-ingredient
+git push --set-upstream origin secret-ingredient
 ```
 Így a GitHubon is létrejön a branch, majd rákerülnek a commitjaid.
 
