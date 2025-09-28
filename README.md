@@ -1,3 +1,4 @@
+# Roth vagyok modositottam
 # Git és Github gyakorlás
 
 Ez egy egyszerű repo a git és a github gyakorlásához. A git egy **verziókezelő** eszköz. Ennek a segítségével bármilyen szöveges dokumentumot (jellemzően kódot) lehet követni, így visszatekintve látható, hogy hogyan változott. Ez egyszerűsíti az esetleges visszavonást, illetve a több szerző általi módosítások kezelését.
@@ -235,7 +236,7 @@ Ezt követően szerkeszdd a `README.md` fájl ezt követő bekezdését, írd be
 ```md
 A következő feladatod, hogy a `bevásárlólista.md`-be is írd bele a juhtúrót.
 Ezt is mentsd és commitold, így mindkét helyre bekerült az új alapanyag.
-
+juhtúró
 ```
 Ha végeztél, commitolj.
 
